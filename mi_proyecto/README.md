@@ -8,7 +8,7 @@ El proyecto se enfoca en poner en practica todos los conceptos aprendidos.
 3. ./nombre_del_ejecutable "Ejecutar el programa"
 
 
-# TABLA DE CONTENIDO
+# TABLA DE CONTENIDO DEL PROYECTO
 - [Uso de la consola](docs/uso_consola.md)
 - [Creación de repositorios locales](docs/repositorio_local.md)
 - [Creación de repositorio remoto](docs/repositorio_remoto.md)
